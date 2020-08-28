@@ -27,8 +27,8 @@ The screenshots taken by the real environment and AGV are shown below:
  
 
 ### Used Technology
-- ROS (Robot operating system) : for the communication and data transport
-- ROS-Web-Bridge : share ROS packets on local network 
-- Unity & Vuforia : for the Augmented Reality app
-- Python : used for ROS side
-- C# : used for Unity side
+- **ROS (Robot operating system)** : for the communication and data transport
+- **ROS-Web-Bridge** : share ROS packets on local network 
+- **Unity & Vuforia** : for the Augmented Reality app
+- **Python** : used for ROS side
+- **C#** : used for Unity side
