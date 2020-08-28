@@ -9,3 +9,20 @@ ROS (Robot Operating System) installed on the vehicle will be used to communicat
 System software architecture is shown below:
 > <img src="https://github.com/zekeriyyaa/Augmented-Reality-on-Autonomous-Guided-Vehicle/blob/master/images/softwareArchitecture.PNG" width="630px" height="330px"/>
  
+There are two different perspective that enable us to see object that represented data of AGV on real environment. The first one is AGV own camera and second one is the AR app' camera. This app performing on simulation and real environment. During the initial process of development cycle of this app, simulation environment was used for test. With the end of development process, real environment that has its own components (AGV,server etc.) was used.
+
+The real and simulation environments are shown below: 
+> <img src="https://github.com/zekeriyyaa/Augmented-Reality-on-Autonomous-Guided-Vehicle/blob/master/images/realEnvironment.png" width="400px" height="200px"/>
+> <img src="https://github.com/zekeriyyaa/Augmented-Reality-on-Autonomous-Guided-Vehicle/blob/master/images/simulationEnvironment.png" width="400px" height=200px"/>
+ 
+Both of perspectives shown the same data on the screen. On the top of left, location, speed and charge percentage are shown with black font. Laser sensor data is shown with orange circle throughout to path. The path plan which is AGV will going is shown orange lines over the floor.
+
+The screenshots taken by the mobile phone which the application is installed are shown below:
+> <img src="https://github.com/zekeriyyaa/Augmented-Reality-on-Autonomous-Guided-Vehicle/blob/master/images/AppCameraSimulationPerspective.jpg" width="400px" height="200px"/>
+> <img src="https://github.com/zekeriyyaa/Augmented-Reality-on-Autonomous-Guided-Vehicle/blob/master/images/ARCameraSimulationPerspective.png" width="400px" height=200px"/>
+ 
+The screenshots taken by the real environment and AGV are shown below:
+> <img src="https://github.com/zekeriyyaa/Augmented-Reality-on-Autonomous-Guided-Vehicle/blob/master/images/ARCameraPerspective.png" width="400px" height="200px"/>
+> <img src="https://github.com/zekeriyyaa/Augmented-Reality-on-Autonomous-Guided-Vehicle/blob/master/images/AGVCameraPerspective.png" width="400px" height=200px"/>
+ 
+ 
