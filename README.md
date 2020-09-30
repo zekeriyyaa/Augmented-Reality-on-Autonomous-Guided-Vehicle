@@ -1,5 +1,5 @@
 # Augmented-Reality-on-Autonomous-Guided-Vehicle
-In this project, augmented reality application will be developed for autonomous vehicles operating in smart factory environments. In practice, it is aimed to show the path in the real environment with an augmented reality application in the direction of the task assigned to the vehicle along with sensor information such as instant location, speed, laser sensor and charge percentage from autonomous carrier vehicles.
+In this project, augmented reality application was develop for autonomous vehicles operating in smart factory environments. In practice, it is aimed to show the path in the real environment with an augmented reality application in the direction of the task that assigned to the vehicle. Additionaly, sensor information that taken from vehicles such as instant location, speed, laser sensor and charge percentage were show at same screen on the app.
 
 System design architecture is shown below:
 > <img src="https://github.com/zekeriyyaa/Augmented-Reality-on-Autonomous-Guided-Vehicle/blob/master/images/systemArchitecture.PNG" width="675px" height="300px"/>
