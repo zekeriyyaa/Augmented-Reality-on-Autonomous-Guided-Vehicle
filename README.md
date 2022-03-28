@@ -1,4 +1,4 @@
-# Augmented-Reality-for-Autonomous-Guided-Vehicle
+# Augmented-Reality-Application-for-Autonomous-Guided-Vehicle
 In this project, augmented reality application was develop for autonomous vehicles operating in smart factory environments. In practice, it is aimed to show the path in the real environment with an augmented reality application in the direction of the task that assigned to the vehicle. Additionaly, sensor information that taken from vehicles such as instant location, speed, laser sensor and charge percentage were show at same screen on the app.
 
 System design architecture is shown below:
